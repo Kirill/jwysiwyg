@@ -1,5 +1,7 @@
 h1. jWYSIWYG
 
+Modified version of jWYSIWYG by Juan M Martínez updated for compatible MantisBT plugin's API.
+
 Copyright (c) 2009-2010 Juan M Martínez
 Dual licensed under the "MIT":http://github.com/akzhan/jwysiwyg/raw/master/MIT-LICENSE.txt and "GPL2":http://github.com/akzhan/jwysiwyg/raw/master/GPL-LICENSE.txt licenses.
 
@@ -21,4 +23,5 @@ Some minor bugs still exist while 1.0 not reached.
 
 h2. Web site
 
+"Modified jWYSIWYG":http://www.kraeg.ru
 "jWYSIWYG on GitHub":http://github.com/akzhan/jwysiwyg
